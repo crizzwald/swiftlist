@@ -4,10 +4,4 @@
    <FileRef
       location = "group:swiftlistapi/swiftlistapi.xcodeproj">
    </FileRef>
-   <FileRef
-      location = "group:../Perfect/PerfectServer/PerfectServer.xcodeproj">
-   </FileRef>
-   <FileRef
-      location = "group:../Perfect/PerfectLib/PerfectLib.xcodeproj">
-   </FileRef>
 </Workspace>
