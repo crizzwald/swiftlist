@@ -8,6 +8,6 @@
       location = "group:Perfect/PerfectLib/PerfectLib.xcodeproj">
    </FileRef>
    <FileRef
-      location = "group:swiftlistapi/swiftlistapi.xcodeproj">
+      location = "group:swiftlistweb/swiftlistweb.xcodeproj">
    </FileRef>
 </Workspace>

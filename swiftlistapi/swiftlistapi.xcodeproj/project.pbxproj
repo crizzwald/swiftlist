@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		6AA3DF171C5EBADE00016493 /* PerfectLib.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 6AA3DF161C5EBADE00016493 /* PerfectLib.framework */; };
 		6AFB57211C5E9C2C0016216D /* swiftlistapi.h in Headers */ = {isa = PBXBuildFile; fileRef = 6AFB57201C5E9C2C0016216D /* swiftlistapi.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		6AFB57301C5E9C550016216D /* ApiController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6AFB57281C5E9C550016216D /* ApiController.swift */; };
 		6AFB57311C5E9C550016216D /* Dtos.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6AFB57291C5E9C550016216D /* Dtos.swift */; };
@@ -19,6 +20,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		6AA3DF161C5EBADE00016493 /* PerfectLib.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = PerfectLib.framework; path = "../../../../Library/Developer/Xcode/DerivedData/swiftlistapi-grgctxsndsbwamciiydbcrsektfg/Build/Products/Debug/PerfectLib.framework"; sourceTree = "<group>"; };
 		6AFB571D1C5E9C2C0016216D /* swiftlistapi.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = swiftlistapi.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		6AFB57201C5E9C2C0016216D /* swiftlistapi.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = swiftlistapi.h; sourceTree = "<group>"; };
 		6AFB57221C5E9C2C0016216D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
@@ -30,7 +32,6 @@
 		6AFB572D1C5E9C550016216D /* Models.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Models.swift; sourceTree = "<group>"; };
 		6AFB572E1C5E9C550016216D /* PerfectHandlers.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PerfectHandlers.swift; sourceTree = "<group>"; };
 		6AFB572F1C5E9C550016216D /* RouteConfig.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = RouteConfig.swift; sourceTree = "<group>"; };
-		6AFB575D1C5E9DB20016216D /* PerfectLib.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = PerfectLib.framework; path = "../../../../Library/Developer/Xcode/DerivedData/swiftlistapi-grgctxsndsbwamciiydbcrsektfg/Build/Products/Debug/PerfectLib.framework"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -38,6 +39,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				6AA3DF171C5EBADE00016493 /* PerfectLib.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -89,7 +91,7 @@
 		6AFB575F1C5E9DB70016216D /* Linked */ = {
 			isa = PBXGroup;
 			children = (
-				6AFB575D1C5E9DB20016216D /* PerfectLib.framework */,
+				6AA3DF161C5EBADE00016493 /* PerfectLib.framework */,
 			);
 			name = Linked;
 			sourceTree = "<group>";

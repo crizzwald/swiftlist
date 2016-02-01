@@ -14,10 +14,10 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "6AFB571C1C5E9C2C0016216D"
-               BuildableName = "swiftlistapi.framework"
-               BlueprintName = "swiftlistapi"
-               ReferencedContainer = "container:swiftlistapi.xcodeproj">
+               BlueprintIdentifier = "6AA3DF211C5EC43000016493"
+               BuildableName = "swiftlistweb.framework"
+               BlueprintName = "swiftlistweb"
+               ReferencedContainer = "container:swiftlistweb.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -73,10 +73,10 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "6AFB571C1C5E9C2C0016216D"
-            BuildableName = "swiftlistapi.framework"
-            BlueprintName = "swiftlistapi"
-            ReferencedContainer = "container:swiftlistapi.xcodeproj">
+            BlueprintIdentifier = "6AA3DF211C5EC43000016493"
+            BuildableName = "swiftlistweb.framework"
+            BlueprintName = "swiftlistweb"
+            ReferencedContainer = "container:swiftlistweb.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
    </ProfileAction>
